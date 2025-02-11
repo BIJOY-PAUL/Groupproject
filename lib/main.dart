@@ -29,7 +29,7 @@ class myApp extends StatelessWidget {
   primarySwatch: Colors.deepPurple,
       fontFamily:GoogleFonts.lato().fontFamily,
       ),
-
+  
       darkTheme: ThemeData(
 
 primarySwatch: Colors.green
